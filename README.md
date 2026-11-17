@@ -11,7 +11,6 @@ Trabalho há mais de seis anos com dados e BI. Hoje estou à frente do BI Fiscal
 | **BI Fiscal · vendas e compras** | Desenvolvimento de indicadores fiscais de vendas, compras e devoluções. Trabalhei com carga incremental, validação entre banco, API e painel e análise de frequência e recência de compra para identificar clientes com potencial de reativação. |
 | **CRM e fidelização · estética automotiva** | Desenvolvimento de um projeto de relacionamento com clientes, com cadastro, histórico de atendimentos e uma jornada de incentivo ao retorno. |
 | **Engenharia de dados · Titanic** | Projeto de portfólio em Python com dados públicos, da ingestão e transformação até a camada processada e uma análise de referência. |
-| **Automação de rotinas · MEI** | Projeto pessoal voltado à redução de etapas manuais em rotinas administrativas de emissão de nota fiscal e controle de boletos. |
 
 ## Como trabalho
 
