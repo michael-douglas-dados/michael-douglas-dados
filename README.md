@@ -2,7 +2,7 @@
 
 **BI Fiscal · Analytics Engineering · Automação de dados**
 
-Trabalho há mais de seis anos com dados e BI. Atuo entre as áreas de negócio e tecnologia, da definição das regras à validação do que chega ao painel. Minha experiência inclui análise de campanhas, vendas, compras, folha de pagamento, balanços e demonstrações de fluxo de caixa.
+Trabalho há mais de seis anos com dados e BI. Hoje estou à frente do BI Fiscal e atuo entre as áreas de negócio e tecnologia, da definição das regras à validação do que chega ao painel. Minha experiência inclui análise de campanhas, vendas, compras, folha de pagamento, balanços e demonstrações de fluxo de caixa.
 
 ## Projetos em destaque
 
