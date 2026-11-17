@@ -1,14 +1,14 @@
 # Michael Douglas
 
-**Coordenação de BI Fiscal · Analytics Engineering · Automação de dados**
+**BI Fiscal · Analytics Engineering · Automação de dados**
 
-Trabalho há mais de seis anos com dados e BI. Hoje coordeno o BI Fiscal e atuo entre as áreas de negócio e tecnologia, da definição das regras à validação do que chega ao painel. Minha experiência inclui análise de campanhas, vendas, compras, folha de pagamento, balanços e demonstrações de fluxo de caixa.
+Trabalho há mais de seis anos com dados e BI. Atuo entre as áreas de negócio e tecnologia, da definição das regras à validação do que chega ao painel. Minha experiência inclui análise de campanhas, vendas, compras, folha de pagamento, balanços e demonstrações de fluxo de caixa.
 
 ## Projetos em destaque
 
 | Projeto | O que desenvolvi |
 | --- | --- |
-| **BI Fiscal · vendas e compras** | Coordenação do BI Fiscal, com indicadores de vendas, compras e devoluções. Trabalhei com carga incremental, validação entre banco, API e painel e análise de frequência e recência de compra para identificar clientes com potencial de reativação. |
+| **BI Fiscal · vendas e compras** | Desenvolvimento de indicadores fiscais de vendas, compras e devoluções. Trabalhei com carga incremental, validação entre banco, API e painel e análise de frequência e recência de compra para identificar clientes com potencial de reativação. |
 | **CRM e fidelização · estética automotiva** | Desenvolvimento de um projeto de relacionamento com clientes, com cadastro, histórico de atendimentos e uma jornada de incentivo ao retorno. |
 | **Engenharia de dados · Titanic** | Projeto de portfólio em Python com dados públicos, da ingestão e transformação até a camada processada e uma análise de referência. |
 | **Automação de rotinas · MEI** | Projeto pessoal voltado à redução de etapas manuais em rotinas administrativas de emissão de nota fiscal e controle de boletos. |
