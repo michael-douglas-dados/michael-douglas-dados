@@ -18,4 +18,10 @@ Trabalho há mais de seis anos com dados e BI. Hoje estou à frente do BI Fiscal
 - **Dados e integrações** · Trabalho com SQL, PostgreSQL, SQL Server, Python, APIs e automação de cargas e validações. Uso Power BI, DAX, Power Query e Apache Hop conforme o projeto.
 - **Agentes de IA** · Uso agentes para apoiar testes, investigar divergências e revisar implementações.
 
+
+## Engenharia de IA, ETL e aplicações web
+
+Curadoria de 15 projetos de referência de Apache, Microsoft, dbt Labs, Vercel e outros mantenedores, com aplicações de negócio para pipelines, RAG, agentes, avaliação e observabilidade de IA.
+
+[Explorar os 15 projetos e suas fontes oficiais](referencias-ia-dados.md)
 [LinkedIn](https://www.linkedin.com/in/michael-douglas-833382208/)
