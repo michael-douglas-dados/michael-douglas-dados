@@ -45,6 +45,11 @@ Participei de projetos contábeis, de RH e de análise de campanhas. Essa experi
 - **Performance** — Investigo gargalos em consultas, medidas, modelos e interfaces.
 - **Manutenção** — Trabalho com versionamento, documentação e testes para facilitar a revisão e a continuidade das soluções.
 
+## Plataforma de dados, CRM e engenharia de IA
+
+[Customer Data Workbench](https://github.com/michael-douglas-dados/data-ai-business-platform) reúne 20 casos executáveis em uma aplicação integrada com React, TypeScript, FastAPI e Python. Inclui CRM e funil, ETL versionado, qualidade, segmentação, coortes, indicadores de compras e RH, projeção de receita, busca de conhecimento e avaliação de recuperação.
+
+Dados sintéticos, comandos de reprodução, 30 testes de regressão e documentação das integrações PostgreSQL/dbt, Airflow e n8n. Desenvolvimento assistido por IA, com escopo e validações registrados no repositório.
 ## Referências de engenharia de IA
 
 Curadoria de 15 projetos de Apache, Microsoft, dbt Labs, Vercel e outros mantenedores, com aplicações de negócio para ETL, RAG, agentes, avaliação, observabilidade e produtos web.
